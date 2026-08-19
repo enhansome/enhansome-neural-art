@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,216 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,217 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -82,7 +82,7 @@ AKA in-painting
 
 AKA image matting. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction) ⭐ 531 | 🐛 4 | 📅 2021-09-25
 
-* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 3,000 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
+* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 2,999 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
 * [Salient Object Detection](https://github.com/Joker316701882/Salient-Object-Detection) ⭐ 444 | 🐛 25 | 🌐 Python | 📅 2021-12-24 - Tensorflow implementation for cvpr2017 paper ["Deeply Supervised Salient Object Detection with Short Connections"](https://arxiv.org/abs/1611.04849) (not peer reviewed). Same author as original Deep Image Matting author.
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

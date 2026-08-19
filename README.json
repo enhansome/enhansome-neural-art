@@ -1,6 +1,117 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fast-style-transfer",
+          "description": "TensorFlow CNN for fast style transfer with larger scale style features in transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63832089,
+            "language": "Python",
+            "last_commit": "2023-07-16T02:36:30Z",
+            "owner": "lengstrom",
+            "repo": "fast-style-transfer",
+            "stars": 10961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep-photo-styletransfer",
+          "description": "Code and data for \"Deep Photo Style Transfer\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85786010,
+            "language": "Matlab",
+            "last_commit": "2021-08-02T01:07:44Z",
+            "owner": "luanfujun",
+            "repo": "deep-photo-styletransfer",
+            "stars": 9991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdaIN-style",
+          "description": "Code for Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization. Contains neat features such as transfering style without color, style interpolation, and spatial control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85599013,
+            "language": "Lua",
+            "last_commit": "2017-10-30T11:38:53Z",
+            "owner": "xunhuang1995",
+            "repo": "AdaIN-style",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "texture_nets",
+          "description": "Code for \"Texture Networks: Feed-forward Synthesis of Textures and Stylized Images\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53321801,
+            "language": "Lua",
+            "last_commit": "2018-01-07T06:56:34Z",
+            "owner": "DmitryUlyanov",
+            "repo": "texture_nets",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adaptive-style-transfer",
+          "description": "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146084522,
+            "language": "Python",
+            "last_commit": "2021-12-03T08:11:19Z",
+            "owner": "tensorlayer",
+            "repo": "adaptive-style-transfer",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Painterly Harmonization",
+          "description": "Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. See paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128821674,
+            "language": "Cuda",
+            "last_commit": "2021-08-02T02:46:03Z",
+            "owner": "luanfujun",
+            "repo": "deep-painterly-harmonization",
+            "stars": 6042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Style Transfer",
+          "description": "Keras Implementation of Neural Style Transfer from the paper \"A Neural Algorithm of Artistic Style\" in Keras 2.0+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58276707,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-13T22:21:20Z",
+            "owner": "titu1994",
+            "repo": "Neural-Style-Transfer",
+            "stars": 2288
+          }
+        }
+      ],
+      "title": "Style Transfer"
+    },
+    {
       "description": "AKA in-painting",
       "items": [
         {
@@ -10,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118721409,
             "language": "Python",
             "last_commit": "2024-06-27T08:18:38Z",
             "owner": "JiahuiYu",
@@ -24,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161960205,
             "language": "Python",
             "last_commit": "2024-02-03T16:03:43Z",
             "owner": "knazeri",
@@ -38,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99184610,
             "language": "Python",
             "last_commit": "2018-05-07T14:30:44Z",
             "owner": "chingweitseng",
@@ -58,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137429940,
             "language": "Python",
             "last_commit": "2024-08-04T04:22:21Z",
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 3000
+            "stars": 2999
           }
         },
         {
@@ -72,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105251067,
             "language": "Python",
             "last_commit": "2021-12-24T04:34:12Z",
             "owner": "Joker316701882",
@@ -86,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158566570,
             "language": "Python",
             "last_commit": "2020-07-19T14:41:14Z",
             "owner": "CDOTAD",
@@ -105,6 +222,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 193165594,
                 "language": "Python",
                 "last_commit": "2020-01-09T06:21:22Z",
                 "owner": "foamliu",
@@ -119,6 +237,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 99003076,
                 "language": "Python",
                 "last_commit": "2018-09-21T06:04:26Z",
                 "owner": "Joker316701882",
@@ -133,6 +252,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 144530171,
                 "language": "Python",
                 "last_commit": "2022-11-22T02:54:27Z",
                 "owner": "huochaitiantang",
@@ -147,6 +267,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104403015,
                 "language": "Python",
                 "last_commit": "2017-09-25T16:17:58Z",
                 "owner": "hector-sab",
@@ -158,16 +279,12 @@
         }
       ],
       "title": "Background subtraction"
-    },
-    {
-      "description": "To the extent possible under law, Richard Decal has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:14:11.565Z",
+    "last_updated": "2026-08-19T12:42:46.457Z",
     "original_repository": "crypdick/awesome-neural-art",
+    "original_repository_id": 157037889,
     "original_repository_sha": "a85ec7837204efa1e8cf797bfac4f77ef942945e",
     "enhanced_repository": "enhansome/enhansome-neural-art",
     "enhanced_repository_description": null,
