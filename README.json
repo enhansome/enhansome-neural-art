@@ -15,7 +15,7 @@
             "last_commit": "2023-07-16T02:36:30Z",
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10961
+            "stars": 10962
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2021-08-02T01:07:44Z",
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9991
+            "stars": 9990
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-08-04T04:22:21Z",
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 2999
+            "stars": 3000
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:17:02.124Z",
+    "last_updated": "2026-08-21T16:15:30.939Z",
     "original_repository": "crypdick/awesome-neural-art",
     "original_repository_id": 157037889,
     "original_repository_sha": "a85ec7837204efa1e8cf797bfac4f77ef942945e",
