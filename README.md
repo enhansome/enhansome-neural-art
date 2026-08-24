@@ -26,7 +26,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://richzhang.github.io/ideepcolor/index_files/imagenet_showcase_small.jpg' width=800>
 
-* [colornet](https://github.com/pavelgonchar/colornet) ⭐ 3,553 | 🐛 14 | 🌐 Python | 📅 2020-04-21
+* [colornet](https://github.com/pavelgonchar/colornet) ⭐ 3,552 | 🐛 14 | 🌐 Python | 📅 2020-04-21
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
@@ -36,11 +36,11 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Style Transfer
 
-* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,284 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
+* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,285 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
-* [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,962 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
+* [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,963 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
 * [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,989 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02 - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
 * [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) ⭐ 1,567 | 🐛 15 | 🌐 Lua | 📅 2017-10-30 - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control.
 * [texture\_nets](https://github.com/DmitryUlyanov/texture_nets) ⭐ 1,225 | 🐛 42 | 🌐 Lua | 📅 2018-01-07 - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images".
@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,213 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,212 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -117,8 +117,8 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Lectures
 
-* [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 * [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) ⭐ 1,638 | 🐛 4 | 📅 2022-02-21 - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
+* [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 
 ## License
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

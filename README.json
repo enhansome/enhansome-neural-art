@@ -5,6 +5,87 @@
       "items": [
         {
           "node_type": "item",
+          "title": "See also: Awesome Image Colorization",
+          "description": "and the colorization subreddit where people do this manually.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156939932,
+            "language": null,
+            "last_commit": "2026-08-21T06:30:17Z",
+            "owner": "MarkMoHR",
+            "repo": "Awesome-Image-Colorization",
+            "stars": 1163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Deep Colorization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90598753,
+            "language": "Python",
+            "last_commit": "2022-07-29T10:15:32Z",
+            "owner": "junyanz",
+            "repo": "interactive-deep-colorization",
+            "stars": 2692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colornet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56582693,
+            "language": "Python",
+            "last_commit": "2020-04-21T10:17:51Z",
+            "owner": "pavelgonchar",
+            "repo": "colornet",
+            "stars": 3552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colorful Image Colorization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54758833,
+            "language": "Python",
+            "last_commit": "2023-11-27T04:46:28Z",
+            "owner": "richzhang",
+            "repo": "colorization",
+            "stars": 3461
+          }
+        }
+      ],
+      "title": "Colorization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neural-style",
+          "description": "Torch implementation of neural style algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41717707,
+            "language": "Lua",
+            "last_commit": "2018-02-23T01:21:20Z",
+            "owner": "jcjohnson",
+            "repo": "neural-style",
+            "stars": 18285
+          }
+        },
+        {
+          "node_type": "item",
           "title": "fast-style-transfer",
           "description": "TensorFlow CNN for fast style transfer with larger scale style features in transformations.",
           "children": [],
@@ -15,7 +96,7 @@
             "last_commit": "2023-07-16T02:36:30Z",
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10962
+            "stars": 10963
           }
         },
         {
@@ -80,6 +161,21 @@
         },
         {
           "node_type": "item",
+          "title": "Bicycle GAN",
+          "description": "NIPS 2017 Toward Multimodal Image-to-Image Translation, PyTorch implementation. Given the same night image, model is able to synthesize possible day images with different types of lighting, sky and clouds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110639332,
+            "language": "Python",
+            "last_commit": "2020-08-05T01:00:21Z",
+            "owner": "junyanz",
+            "repo": "BicycleGAN",
+            "stars": 1514
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Deep Painterly Harmonization",
           "description": "Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. See paper.",
           "children": [],
@@ -110,6 +206,57 @@
         }
       ],
       "title": "Style Transfer"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "waifu2x",
+          "description": "Image Super-Resolution for Anime-Style Art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35756351,
+            "language": "Lua",
+            "last_commit": "2023-05-04T00:50:48Z",
+            "owner": "nagadomi",
+            "repo": "waifu2x",
+            "stars": 28212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srgan",
+          "description": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88890801,
+            "language": "Python",
+            "last_commit": "2024-02-22T02:05:20Z",
+            "owner": "tensorlayer",
+            "repo": "SRGAN",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fft-descreen",
+          "description": "Clean up deconvolution checkerboard artifacts found in style transferred images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72953220,
+            "language": "Python",
+            "last_commit": "2020-03-06T07:14:34Z",
+            "owner": "6o6o",
+            "repo": "fft-descreen",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Super Resolution"
     },
     {
       "description": "AKA in-painting",
@@ -279,10 +426,103 @@
         }
       ],
       "title": "Background subtraction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neural-doodle",
+          "description": "Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 53228513,
+            "language": "Python",
+            "last_commit": "2020-10-01T16:54:52Z",
+            "owner": "alexjc",
+            "repo": "neural-doodle",
+            "stars": 9852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iGAN",
+          "description": "iGAN: Interactive Image Generation via Generative Adversarial Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68788179,
+            "language": "Python",
+            "last_commit": "2020-08-05T01:05:44Z",
+            "owner": "junyanz",
+            "repo": "iGAN",
+            "stars": 4005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "style2paints",
+          "description": "An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93354260,
+            "language": "JavaScript",
+            "last_commit": "2023-08-01T02:02:00Z",
+            "owner": "lllyasviel",
+            "repo": "style2paints",
+            "stars": 18179
+          }
+        }
+      ],
+      "title": "Interactive art"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deep-image-prior",
+          "description": "Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112535474,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-27T03:47:44Z",
+            "owner": "DmitryUlyanov",
+            "repo": "deep-image-prior",
+            "stars": 8088
+          }
+        }
+      ],
+      "title": "Multiple categories"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Style Transfer Review",
+          "description": "Repo for the Neural Style Transfer review article.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88055096,
+            "language": null,
+            "last_commit": "2022-02-21T10:11:42Z",
+            "owner": "ycjing",
+            "repo": "Neural-Style-Transfer-Papers",
+            "stars": 1638
+          }
+        }
+      ],
+      "title": "Lectures"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:02:12.446Z",
+    "last_updated": "2026-08-24T14:42:02.721Z",
     "original_repository": "crypdick/awesome-neural-art",
     "original_repository_id": 157037889,
     "original_repository_sha": "a85ec7837204efa1e8cf797bfac4f77ef942945e",
