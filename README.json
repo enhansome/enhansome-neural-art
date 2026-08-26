@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T06:30:17Z",
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1163
+            "stars": 1164
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2018-02-23T01:21:20Z",
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18285
+            "stars": 18284
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2023-07-16T02:36:30Z",
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10963
+            "stars": 10962
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-05-04T00:50:48Z",
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28211
+            "stars": 28212
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-02-22T02:05:20Z",
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3467
+            "stars": 3466
           }
         },
         {
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:20:44.786Z",
+    "last_updated": "2026-08-26T16:38:43.919Z",
     "original_repository": "crypdick/awesome-neural-art",
     "original_repository_id": 157037889,
     "original_repository_sha": "a85ec7837204efa1e8cf797bfac4f77ef942945e",

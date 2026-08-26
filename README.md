@@ -18,7 +18,7 @@ Creating art and manipulating images using deep neural networks.
 
 ## Colorization
 
-See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,163 | 🐛 6 | 📅 2026-08-21 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
+See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,164 | 🐛 6 | 📅 2026-08-21 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
 * [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,692 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
@@ -36,11 +36,11 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Style Transfer
 
-* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,285 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
+* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,284 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
-* [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,963 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
+* [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,962 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
 * [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,989 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02 - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
 * [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) ⭐ 1,567 | 🐛 15 | 🌐 Lua | 📅 2017-10-30 - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control.
 * [texture\_nets](https://github.com/DmitryUlyanov/texture_nets) ⭐ 1,225 | 🐛 42 | 🌐 Lua | 📅 2018-01-07 - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images".
@@ -58,11 +58,11 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,211 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,212 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
-* [srgan](https://github.com/tensorlayer/srgan) ⭐ 3,467 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
+* [srgan](https://github.com/tensorlayer/srgan) ⭐ 3,466 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 
 <img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
 
@@ -89,7 +89,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 * [AlphaGAN](https://github.com/CDOTAD/AlphaGAN-Matting) ⭐ 154 | 🐛 12 | 🌐 Python | 📅 2020-07-19 - Unofficial implementation of [AlphaGAN: Generative adversarial networks for natural image matting](https://arxiv.org/pdf/1807.10088.pdf). Uses a GAN as the name suggests.
 
 * Deep Image Matting - Implementations of the [Deep Image Matting paper](https://sites.google.com/view/deepimagematting).
-  * [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2) ⭐ 831 | 🐛 4 | 🌐 Python | 📅 2020-01-09 - Same author as [Keras implementation](https://github.com/foamliu/Deep-Image-Matting) ⭐ 990 | 🐛 6 | 🌐 Python | 📅 2019-08-20, but this is their improved (and maintained) codebase.
+  * [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2) ⭐ 831 | 🐛 4 | 🌐 Python | 📅 2020-01-09 - Same author as [Keras implementation](https://github.com/foamliu/Deep-Image-Matting) ⭐ 989 | 🐛 6 | 🌐 Python | 📅 2019-08-20, but this is their improved (and maintained) codebase.
   * [Tensorflow implementation](https://github.com/Joker316701882/Deep-Image-Matting) ⭐ 624 | 🐛 39 | 🌐 Python | 📅 2018-09-21 - Original paper author.
   * [Another PyTorch implementation](https://github.com/huochaitiantang/pytorch-deep-image-matting) ⭐ 297 | 🐛 32 | 🌐 Python | 📅 2022-11-22
   * [Dataset generator](https://github.com/hector-sab/DIM_DataCreation) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2017-09-25 - Generates training data for the Deep Image Matting paper.
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
