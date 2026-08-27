@@ -12,7 +12,7 @@
             "archived": false,
             "id": 156939932,
             "language": null,
-            "last_commit": "2026-08-21T06:30:17Z",
+            "last_commit": "2026-08-27T08:51:33Z",
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
             "stars": 1164
@@ -81,7 +81,7 @@
             "last_commit": "2018-02-23T01:21:20Z",
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18284
+            "stars": 18283
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2021-08-02T02:46:03Z",
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6041
+            "stars": 6042
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-05-04T00:50:48Z",
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28212
+            "stars": 28213
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-02-22T02:05:20Z",
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466
+            "stars": 3467
           }
         },
         {
@@ -522,9 +522,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:43.919Z",
-    "original_repository": "crypdick/awesome-neural-art",
-    "original_repository_id": 157037889,
+    "last_updated": "2026-08-27T11:54:14.338Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 157037889,
+      "language": null,
+      "last_commit": "2026-05-05T03:08:52Z",
+      "owner": "crypdick",
+      "repo": "awesome-neural-art",
+      "stars": 87
+    },
     "original_repository_sha": "a85ec7837204efa1e8cf797bfac4f77ef942945e",
     "enhanced_repository": "enhansome/enhansome-neural-art",
     "enhanced_repository_description": null,
