@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,213 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,214 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
