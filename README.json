@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: A collection of Deep Learning based Image Colorization and Video Colorization papers.",
+            "homepage": null,
             "id": 156939932,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T08:51:33Z",
+            "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1164
+            "stars": 1164,
+            "topics": [
+              "automatic-colorization",
+              "color-palette",
+              "color-strokes",
+              "color-transfer",
+              "colorization",
+              "computer-vision",
+              "deep-learning",
+              "graphics",
+              "image-colorization",
+              "image-colorization-paper",
+              "image-colorization-papers",
+              "papers",
+              "user-guided",
+              "user-interaction"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -26,12 +46,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning software for colorizing black and white images with a few clicks.",
+            "homepage": "https://richzhang.github.io/ideepcolor/",
             "id": 90598753,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-29T10:15:32Z",
+            "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2692
+            "stars": 2692,
+            "topics": [
+              "automatic-colorization",
+              "caffe",
+              "colorization",
+              "computer-vision",
+              "deep-learning",
+              "deep-learning-algorithms",
+              "interactive"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -42,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Network to colorize grayscale images",
+            "homepage": null,
             "id": 56582693,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-21T10:17:51Z",
+            "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3552
+            "stars": 3552,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -58,12 +96,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic colorization using deep neural networks. \"Colorful Image Colorization.\" In ECCV, 2016.",
+            "homepage": "http://richzhang.github.io/colorization/",
             "id": 54758833,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-11-27T04:46:28Z",
+            "open_issues": 59,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3462
+            "stars": 3462,
+            "topics": [
+              "automatic-colorization",
+              "caffe",
+              "colorization",
+              "computer-vision",
+              "deep-learning",
+              "deep-learning-algorithms"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -80,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Torch implementation of neural style algorithm",
+            "homepage": null,
             "id": 41717707,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-02-23T01:21:20Z",
+            "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18283
+            "stars": 18283,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -96,12 +151,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow CNN for fast style transfer ⚡🖥🎨🖼",
+            "homepage": null,
             "id": 63832089,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-16T02:36:30Z",
+            "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10962
+            "stars": 10962,
+            "topics": [
+              "deep-learning",
+              "neural-networks",
+              "neural-style",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -112,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for paper \"Deep Photo Style Transfer\": https://arxiv.org/abs/1703.07511 ",
+            "homepage": null,
             "id": 85786010,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2021-08-02T01:07:44Z",
+            "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9989
+            "stars": 9989,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -128,12 +198,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization",
+            "homepage": "https://arxiv.org/abs/1703.06868",
             "id": 85599013,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-10-30T11:38:53Z",
+            "open_issues": 15,
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
-            "stars": 1567
+            "stars": 1567,
+            "topics": [
+              "deep-learning",
+              "generative-art",
+              "generative-model",
+              "neural-style",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -144,12 +225,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Texture Networks: Feed-forward Synthesis of Textures and Stylized Images\" paper.",
+            "homepage": null,
             "id": 53321801,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-07T06:56:34Z",
+            "open_issues": 42,
             "owner": "DmitryUlyanov",
             "repo": "texture_nets",
-            "stars": 1225
+            "stars": 1225,
+            "topics": [
+              "neural-style",
+              "style-transfer",
+              "texture-networks",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -160,12 +251,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization",
+            "homepage": "https://github.com/tensorlayer/tensorlayer",
             "id": 146084522,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-03T08:11:19Z",
+            "open_issues": 6,
             "owner": "tensorlayer",
             "repo": "adaptive-style-transfer",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "deep-learning",
+              "deepdream",
+              "style-transfer",
+              "tensorflow",
+              "tensorlayer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -176,12 +278,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toward Multimodal Image-to-Image Translation",
+            "homepage": "https://junyanz.github.io/BicycleGAN/",
             "id": 110639332,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-05T01:00:21Z",
+            "open_issues": 21,
             "owner": "junyanz",
             "repo": "BicycleGAN",
-            "stars": 1514
+            "stars": 1514,
+            "topics": [
+              "deep-learning",
+              "gans",
+              "generative-adversarial-network",
+              "pix2pix",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -192,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for paper \"Deep Painterly Harmonization\": https://arxiv.org/abs/1804.03189",
+            "homepage": null,
             "id": 128821674,
             "language": "Cuda",
+            "license": null,
             "last_commit": "2021-08-02T02:46:03Z",
+            "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6042
+            "stars": 6042,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -208,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras Implementation of Neural Style Transfer from the paper \"A Neural Algorithm of Artistic Style\" (http://arxiv.org/abs/1508.06576) in Keras 2.0+",
+            "homepage": null,
             "id": 58276707,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-13T22:21:20Z",
+            "open_issues": 18,
             "owner": "titu1994",
             "repo": "Neural-Style-Transfer",
-            "stars": 2287
+            "stars": 2287,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -230,12 +353,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Super-Resolution for Anime-Style Art",
+            "homepage": "http://waifu2x.udp.jp/ ",
             "id": 35756351,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-05-04T00:50:48Z",
+            "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28212
+            "stars": 28212,
+            "topics": [
+              "super-resolution",
+              "torch",
+              "waifu2x"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -246,12 +378,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network",
+            "homepage": "https://github.com/tensorlayer/tensorlayerx",
             "id": 88890801,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-22T02:05:20Z",
+            "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3467
+            "stars": 3467,
+            "topics": [
+              "cnn",
+              "gan",
+              "srgan",
+              "super-resolution",
+              "tensorflow",
+              "tensorlayer",
+              "vgg",
+              "vgg16",
+              "vgg19"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -262,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An fft-based descreen filter",
+            "homepage": null,
             "id": 72953220,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-06T07:14:34Z",
+            "open_issues": 4,
             "owner": "6o6o",
             "repo": "fft-descreen",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -284,12 +436,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral",
+            "homepage": "http://jiahuiyu.com/deepfill/",
             "id": 118721409,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T08:18:38Z",
+            "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3466
+            "stars": 3466,
+            "topics": [
+              "attention-model",
+              "deep-neural-networks",
+              "deepfill",
+              "generative-adversarial-network",
+              "image-inpainting",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -300,12 +464,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212 ",
+            "homepage": "http://openaccess.thecvf.com/content_ICCVW_2019/html/AIM/Nazeri_EdgeConnect_Structure_Guided_Image_Inpainting_using_Edge_Prediction_ICCVW_2019_paper.html",
             "id": 161960205,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-03T16:03:43Z",
+            "open_issues": 108,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2620
+            "stars": 2620,
+            "topics": [
+              "canny-edge-detection",
+              "deep-learning",
+              "edgeconnect",
+              "gans",
+              "generative-adversarial-network",
+              "image-inpainting",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -316,12 +493,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Deep Image Completion Model for Recovering Various Corrupted Images",
+            "homepage": null,
             "id": 99184610,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-07T14:30:44Z",
+            "open_issues": 4,
             "owner": "chingweitseng",
             "repo": "general-deep-image-completion",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "demo",
+              "face-completion",
+              "image-completion",
+              "inpaint",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -338,12 +526,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepLab v3+ model in PyTorch. Support different backbones.",
+            "homepage": null,
             "id": 137429940,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-04T04:22:21Z",
+            "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 3000
+            "stars": 3000,
+            "topics": [
+              "deeplab-v3-plus",
+              "drn",
+              "mobilenetv2",
+              "pytorch",
+              "resnet",
+              "xception"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -354,12 +554,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is tensorflow implementation for cvpr2017 paper \"Deeply Supervised Salient Object Detection with Short Connections\"",
+            "homepage": null,
             "id": 105251067,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-24T04:34:12Z",
+            "open_issues": 25,
             "owner": "Joker316701882",
             "repo": "Salient-Object-Detection",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "computervision",
+              "deeplearning",
+              "saliency-detection"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -370,12 +579,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is an unofficial implementation of AlphaGAN: Generative adversarial networks for natural image matting published at the BMVC 2018",
+            "homepage": null,
             "id": 158566570,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-19T14:41:14Z",
+            "open_issues": 12,
             "owner": "CDOTAD",
             "repo": "AlphaGAN-Matting",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "gan",
+              "matting",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -391,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Image Matting implementation in PyTorch",
+                "homepage": null,
                 "id": 193165594,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-09T06:21:22Z",
+                "open_issues": 4,
                 "owner": "foamliu",
                 "repo": "Deep-Image-Matting-PyTorch",
-                "stars": 831
+                "stars": 831,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:09:52.420Z"
             },
@@ -407,12 +630,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is tensorflow implementation for paper \"Deep Image Matting\"",
+                "homepage": null,
                 "id": 99003076,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-09-21T06:04:26Z",
+                "open_issues": 39,
                 "owner": "Joker316701882",
                 "repo": "Deep-Image-Matting",
-                "stars": 624
+                "stars": 624,
+                "topics": [
+                  "computer-vision",
+                  "deeplearning",
+                  "matting"
+                ]
               },
               "first_seen": "2026-08-29T00:09:52.420Z"
             },
@@ -423,12 +655,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of deep image matting",
+                "homepage": null,
                 "id": 144530171,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-22T02:54:27Z",
+                "open_issues": 32,
                 "owner": "huochaitiantang",
                 "repo": "pytorch-deep-image-matting",
-                "stars": 297
+                "stars": 297,
+                "topics": [
+                  "deep-learning",
+                  "matting"
+                ]
               },
               "first_seen": "2026-08-29T00:09:52.420Z"
             },
@@ -439,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data creation for training Deep Image Matting. Model at https://github.com/Joker316701882/Deep-Image-Matting",
+                "homepage": null,
                 "id": 104403015,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-09-25T16:17:58Z",
+                "open_issues": 2,
                 "owner": "hector-sab",
                 "repo": "DIM_DataCreation",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:09:52.420Z"
             }
@@ -463,12 +708,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)",
+            "homepage": null,
             "id": 53228513,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2020-10-01T16:54:52Z",
+            "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9852
+            "stars": 9852,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "image-generation",
+              "image-manipulation",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -479,12 +735,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive Image Generation via Generative Adversarial Networks",
+            "homepage": null,
             "id": 68788179,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-08-05T01:05:44Z",
+            "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4006
+            "stars": 4006,
+            "topics": [
+              "computer-graphics",
+              "computer-vision",
+              "dcgan",
+              "deep-learning",
+              "gan",
+              "generative-adversarial-network",
+              "image-manipulation",
+              "pix2pix"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         },
@@ -495,12 +765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)",
+            "homepage": null,
             "id": 93354260,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-01T02:02:00Z",
+            "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18178
+            "stars": 18178,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -517,12 +792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image restoration with neural networks but without learning.",
+            "homepage": "https://dmitryulyanov.github.io/deep_image_prior",
             "id": 112535474,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-27T03:47:44Z",
+            "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8089
+            "stars": 8089,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -539,12 +819,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pencil2: Neural Style Transfer: A Review",
+            "homepage": null,
             "id": 88055096,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-21T10:11:42Z",
+            "open_issues": 4,
             "owner": "ycjing",
             "repo": "Neural-Style-Transfer-Papers",
-            "stars": 1638
+            "stars": 1638,
+            "topics": [
+              "review",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
         }
@@ -553,15 +841,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:09:52.420Z",
+    "last_updated": "2026-08-29T05:00:27.139Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome neural network-based art resources.",
+      "homepage": null,
       "id": 157037889,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-05T03:08:52Z",
+      "open_issues": 0,
       "owner": "crypdick",
       "repo": "awesome-neural-art",
-      "stars": 87
+      "stars": 87,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "image-transfer",
+        "neural-art",
+        "neural-doodles",
+        "neural-network",
+        "style-transfer",
+        "texture-nets"
+      ]
     },
     "original_repository_sha": "a85ec7837204efa1e8cf797bfac4f77ef942945e",
     "enhanced_repository": "enhansome/enhansome-neural-art",
