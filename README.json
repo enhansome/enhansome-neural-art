@@ -16,7 +16,8 @@
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
             "stars": 1164
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
             "stars": 2692
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "pavelgonchar",
             "repo": "colornet",
             "stars": 3552
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2023-11-27T04:46:28Z",
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3461
-          }
+            "stars": 3462
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Colorization"
@@ -82,7 +86,8 @@
             "owner": "jcjohnson",
             "repo": "neural-style",
             "stars": 18283
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
             "stars": 10962
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
             "stars": 9989
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
             "stars": 1567
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "DmitryUlyanov",
             "repo": "texture_nets",
             "stars": 1225
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "tensorlayer",
             "repo": "adaptive-style-transfer",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "junyanz",
             "repo": "BicycleGAN",
             "stars": 1514
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
             "stars": 6042
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "titu1994",
             "repo": "Neural-Style-Transfer",
             "stars": 2287
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Style Transfer"
@@ -222,8 +235,9 @@
             "last_commit": "2023-05-04T00:50:48Z",
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28214
-          }
+            "stars": 28212
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "tensorlayer",
             "repo": "SRGAN",
             "stars": 3467
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "6o6o",
             "repo": "fft-descreen",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Super Resolution"
@@ -274,7 +290,8 @@
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
             "stars": 3466
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "knazeri",
             "repo": "edge-connect",
             "stars": 2620
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "chingweitseng",
             "repo": "general-deep-image-completion",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Patching"
@@ -325,7 +344,8 @@
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
             "stars": 3000
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "Joker316701882",
             "repo": "Salient-Object-Detection",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "CDOTAD",
             "repo": "AlphaGAN-Matting",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "group",
@@ -375,7 +397,8 @@
                 "owner": "foamliu",
                 "repo": "Deep-Image-Matting-PyTorch",
                 "stars": 831
-              }
+              },
+              "first_seen": "2026-08-29T00:09:52.420Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "Joker316701882",
                 "repo": "Deep-Image-Matting",
                 "stars": 624
-              }
+              },
+              "first_seen": "2026-08-29T00:09:52.420Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "huochaitiantang",
                 "repo": "pytorch-deep-image-matting",
                 "stars": 297
-              }
+              },
+              "first_seen": "2026-08-29T00:09:52.420Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "hector-sab",
                 "repo": "DIM_DataCreation",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:09:52.420Z"
             }
           ]
         }
@@ -443,7 +469,8 @@
             "owner": "alexjc",
             "repo": "neural-doodle",
             "stars": 9852
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -457,8 +484,9 @@
             "last_commit": "2020-08-05T01:05:44Z",
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4005
-          }
+            "stars": 4006
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         },
         {
           "node_type": "item",
@@ -472,8 +500,9 @@
             "last_commit": "2023-08-01T02:02:00Z",
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18179
-          }
+            "stars": 18178
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Interactive art"
@@ -493,8 +522,9 @@
             "last_commit": "2023-04-27T03:47:44Z",
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8088
-          }
+            "stars": 8089
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Multiple categories"
@@ -515,14 +545,15 @@
             "owner": "ycjing",
             "repo": "Neural-Style-Transfer-Papers",
             "stars": 1638
-          }
+          },
+          "first_seen": "2026-08-29T00:09:52.420Z"
         }
       ],
       "title": "Lectures"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:38:07.550Z",
+    "last_updated": "2026-08-29T00:09:52.420Z",
     "original_repository_info": {
       "archived": false,
       "id": 157037889,
