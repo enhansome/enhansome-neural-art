@@ -18,7 +18,7 @@ Creating art and manipulating images using deep neural networks.
 
 ## Colorization
 
-See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,164 | 🐛 6 | 📅 2026-08-27 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
+See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,165 | 🐛 6 | 📅 2026-08-27 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
 * [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,692 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,212 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,215 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 

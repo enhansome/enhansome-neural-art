@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28212,
+            "stars": 28215,
             "topics": [
               "super-resolution",
               "torch",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:27.139Z",
+    "last_updated": "2026-08-29T18:55:55.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
