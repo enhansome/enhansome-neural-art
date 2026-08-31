@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3552,
+            "stars": 3551,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10962,
+            "stars": 10963,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9989,
+            "stars": 9988,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -207,7 +207,7 @@
             "open_issues": 15,
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
-            "stars": 1567,
+            "stars": 1566,
             "topics": [
               "deep-learning",
               "generative-art",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28214,
+            "stars": 28212,
             "topics": [
               "super-resolution",
               "torch",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18178,
+            "stars": 18179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:50:18.934Z",
+    "last_updated": "2026-08-31T21:07:57.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
