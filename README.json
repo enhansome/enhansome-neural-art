@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10963,
+            "stars": 10964,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28212,
+            "stars": 28216,
             "topics": [
               "super-resolution",
               "torch",
@@ -618,7 +618,7 @@
                 "open_issues": 4,
                 "owner": "foamliu",
                 "repo": "Deep-Image-Matting-PyTorch",
-                "stars": 831,
+                "stars": 832,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:52.420Z"
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9851,
+            "stars": 9852,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:07:57.991Z",
+    "last_updated": "2026-09-01T18:53:04.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
