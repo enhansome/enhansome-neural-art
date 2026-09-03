@@ -105,7 +105,7 @@
             "open_issues": 59,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3462,
+            "stars": 3463,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18284,
+            "stars": 18282,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9989,
+            "stars": 9990,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -207,7 +207,7 @@
             "open_issues": 15,
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "deep-learning",
               "generative-art",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9851,
+            "stars": 9850,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18178,
+            "stars": 18177,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:59:06.081Z",
+    "last_updated": "2026-09-03T18:54:02.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
