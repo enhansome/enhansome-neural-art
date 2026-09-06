@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18281,
+            "stars": 18282,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3467,
+            "stars": 3468,
             "topics": [
               "cnn",
               "gan",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:44:01.845Z",
+    "last_updated": "2026-09-06T17:46:38.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
