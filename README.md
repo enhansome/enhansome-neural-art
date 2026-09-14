@@ -20,7 +20,7 @@ Creating art and manipulating images using deep neural networks.
 
 See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,164 | 🐛 6 | 📅 2026-08-27 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
-* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,693 | 🐛 32 | 🌐 Python | 📅 2022-07-29
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,692 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
 <img src='https://github.com/junyanz/interactive-deep-colorization/blob/master/imgs/demo.gif' width=600>  
 
@@ -30,7 +30,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
-* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,463 | 🐛 59 | 🌐 Python | 📅 2023-11-27
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,463 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
 
@@ -53,16 +53,16 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
-* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,041 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
+* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,040 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 * [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,287 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2023-02-13 - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,225 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,223 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
-* [srgan](https://github.com/tensorlayer/srgan) ⭐ 3,468 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
+* [srgan](https://github.com/tensorlayer/srgan) ⭐ 3,467 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 
 <img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
 
@@ -73,7 +73,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 AKA in-painting
 
 * [DeepFill V1](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,468 | 🐛 76 | 🌐 Python | 📅 2024-06-27 - Generative Image Inpainting with Contextual Attention.
-* [EdgeConnect](https://github.com/knazeri/edge-connect) ⭐ 2,620 | 🐛 108 | 🌐 Python | 📅 2024-02-03 - a two-stage adversarial model that comprises of an edge generator followed by an image completion network.
+* [EdgeConnect](https://github.com/knazeri/edge-connect) ⭐ 2,620 | 🐛 106 | 🌐 Python | 📅 2024-02-03 - a two-stage adversarial model that comprises of an edge generator followed by an image completion network.
   <img src='https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png' width=820>
 * [Deep Image Completion](https://github.com/adamstseng/general-deep-image-completion) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2018-05-07 - Contains face-completion and general image completion models. Each can complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
   <img src='https://raw.githubusercontent.com/adamstseng/general-deep-image-completion/master/general-completion.jpg' width=820>
@@ -109,7 +109,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,172 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,176 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
