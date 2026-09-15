@@ -20,7 +20,7 @@ Creating art and manipulating images using deep neural networks.
 
 See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,164 | 🐛 6 | 📅 2026-08-27 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
-* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,692 | 🐛 32 | 🌐 Python | 📅 2022-07-29
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,691 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
 <img src='https://github.com/junyanz/interactive-deep-colorization/blob/master/imgs/demo.gif' width=600>  
 
@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,223 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,226 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -105,7 +105,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gif' width=820>  
 
-* [iGAN](https://github.com/junyanz/iGAN) ⭐ 4,007 | 🐛 14 | 🌐 Python | 📅 2020-08-05 - iGAN: Interactive Image Generation via Generative Adversarial Networks.
+* [iGAN](https://github.com/junyanz/iGAN) ⭐ 4,008 | 🐛 14 | 🌐 Python | 📅 2020-08-05 - iGAN: Interactive Image Generation via Generative Adversarial Networks.
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
@@ -113,7 +113,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Multiple categories
 
-* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,090 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
+* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,091 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

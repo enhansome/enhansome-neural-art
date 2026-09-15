@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2692,
+            "stars": 2691,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28223,
+            "stars": 28226,
             "topics": [
               "super-resolution",
               "torch",
@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4007,
+            "stars": 4008,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8090,
+            "stars": 8091,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:57:35.950Z",
+    "last_updated": "2026-09-15T19:17:24.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
