@@ -105,7 +105,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gif' width=820>  
 
-* [iGAN](https://github.com/junyanz/iGAN) ⭐ 4,008 | 🐛 14 | 🌐 Python | 📅 2020-08-05 - iGAN: Interactive Image Generation via Generative Adversarial Networks.
+* [iGAN](https://github.com/junyanz/iGAN) ⭐ 4,009 | 🐛 14 | 🌐 Python | 📅 2020-08-05 - iGAN: Interactive Image Generation via Generative Adversarial Networks.
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
@@ -113,7 +113,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Multiple categories
 
-* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,091 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
+* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,092 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
