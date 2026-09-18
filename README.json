@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18279,
+            "stars": 18278,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28226,
+            "stars": 28228,
             "topics": [
               "super-resolution",
               "torch",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:19:31.096Z",
+    "last_updated": "2026-09-18T18:39:24.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
