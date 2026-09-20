@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10964,
+            "stars": 10963,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:13:42.632Z",
+    "last_updated": "2026-09-20T18:19:34.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
