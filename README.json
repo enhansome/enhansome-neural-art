@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4009,
+            "stars": 4010,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:19:34.956Z",
+    "last_updated": "2026-09-21T20:08:11.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",

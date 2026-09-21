@@ -105,7 +105,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gif' width=820>  
 
-* [iGAN](https://github.com/junyanz/iGAN) ⭐ 4,009 | 🐛 14 | 🌐 Python | 📅 2020-08-05 - iGAN: Interactive Image Generation via Generative Adversarial Networks.
+* [iGAN](https://github.com/junyanz/iGAN) ⭐ 4,010 | 🐛 14 | 🌐 Python | 📅 2020-08-05 - iGAN: Interactive Image Generation via Generative Adversarial Networks.
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
