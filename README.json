@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3550,
+            "stars": 3549,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10963,
+            "stars": 10962,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9987,
+            "stars": 9985,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -314,7 +314,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6039,
+            "stars": 6038,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -828,7 +828,7 @@
             "open_issues": 4,
             "owner": "ycjing",
             "repo": "Neural-Style-Transfer-Papers",
-            "stars": 1638,
+            "stars": 1637,
             "topics": [
               "review",
               "style-transfer"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:15:08.066Z",
+    "last_updated": "2026-09-24T19:31:15.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
