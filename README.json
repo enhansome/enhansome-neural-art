@@ -287,7 +287,7 @@
             "open_issues": 21,
             "owner": "junyanz",
             "repo": "BicycleGAN",
-            "stars": 1515,
+            "stars": 1516,
             "topics": [
               "deep-learning",
               "gans",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28227,
+            "stars": 28228,
             "topics": [
               "super-resolution",
               "torch",
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8091,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -828,7 +828,7 @@
             "open_issues": 4,
             "owner": "ycjing",
             "repo": "Neural-Style-Transfer-Papers",
-            "stars": 1637,
+            "stars": 1638,
             "topics": [
               "review",
               "style-transfer"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:31:15.928Z",
+    "last_updated": "2026-09-25T19:35:16.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
