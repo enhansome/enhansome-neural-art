@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2693,
+            "stars": 2694,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -105,7 +105,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3464,
+            "stars": 3465,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -234,7 +234,7 @@
             "open_issues": 42,
             "owner": "DmitryUlyanov",
             "repo": "texture_nets",
-            "stars": 1225,
+            "stars": 1224,
             "topics": [
               "neural-style",
               "style-transfer",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28229,
+            "stars": 28231,
             "topics": [
               "super-resolution",
               "torch",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9852,
+            "stars": 9851,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4010,
+            "stars": 4011,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18173,
+            "stars": 18172,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:24:18.072Z",
+    "last_updated": "2026-09-29T20:15:51.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
