@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,231 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,230 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -72,7 +72,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 AKA in-painting
 
-* [DeepFill V1](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,468 | 🐛 76 | 🌐 Python | 📅 2024-06-27 - Generative Image Inpainting with Contextual Attention.
+* [DeepFill V1](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,469 | 🐛 76 | 🌐 Python | 📅 2024-06-27 - Generative Image Inpainting with Contextual Attention.
 * [EdgeConnect](https://github.com/knazeri/edge-connect) ⭐ 2,621 | 🐛 106 | 🌐 Python | 📅 2024-02-03 - a two-stage adversarial model that comprises of an edge generator followed by an image completion network.
   <img src='https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png' width=820>
 * [Deep Image Completion](https://github.com/adamstseng/general-deep-image-completion) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2018-05-07 - Contains face-completion and general image completion models. Each can complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
@@ -89,7 +89,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 * [AlphaGAN](https://github.com/CDOTAD/AlphaGAN-Matting) ⭐ 154 | 🐛 12 | 🌐 Python | 📅 2020-07-19 - Unofficial implementation of [AlphaGAN: Generative adversarial networks for natural image matting](https://arxiv.org/pdf/1807.10088.pdf). Uses a GAN as the name suggests.
 
 * Deep Image Matting - Implementations of the [Deep Image Matting paper](https://sites.google.com/view/deepimagematting).
-  * [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2) ⭐ 832 | 🐛 4 | 🌐 Python | 📅 2020-01-09 - Same author as [Keras implementation](https://github.com/foamliu/Deep-Image-Matting) ⭐ 990 | 🐛 6 | 🌐 Python | 📅 2019-08-20, but this is their improved (and maintained) codebase.
+  * [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2) ⭐ 832 | 🐛 4 | 🌐 Python | 📅 2020-01-09 - Same author as [Keras implementation](https://github.com/foamliu/Deep-Image-Matting) ⭐ 991 | 🐛 6 | 🌐 Python | 📅 2019-08-20, but this is their improved (and maintained) codebase.
   * [Tensorflow implementation](https://github.com/Joker316701882/Deep-Image-Matting) ⭐ 624 | 🐛 39 | 🌐 Python | 📅 2018-09-21 - Original paper author.
   * [Another PyTorch implementation](https://github.com/huochaitiantang/pytorch-deep-image-matting) ⭐ 297 | 🐛 32 | 🌐 Python | 📅 2022-11-22
   * [Dataset generator](https://github.com/hector-sab/DIM_DataCreation) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2017-09-25 - Generates training data for the Deep Image Matting paper.
@@ -109,7 +109,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,172 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,171 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
@@ -117,7 +117,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Lectures
 
-* [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) ⭐ 1,638 | 🐛 4 | 📅 2022-02-21 - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
+* [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) ⭐ 1,639 | 🐛 4 | 📅 2022-02-21 - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
 * [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 
 ## License
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
