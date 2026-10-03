@@ -42,7 +42,7 @@
         {
           "node_type": "item",
           "title": "Interactive Deep Colorization",
-          "description": null,
+          "description": "junyanz/interactive-deep-colorization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -71,7 +71,7 @@
         {
           "node_type": "item",
           "title": "colornet",
-          "description": null,
+          "description": "pavelgonchar/colornet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "Colorful Image Colorization",
-          "description": null,
+          "description": "richzhang/colorization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -651,7 +651,7 @@
             {
               "node_type": "item",
               "title": "Another PyTorch implementation",
-              "description": null,
+              "description": "huochaitiantang/pytorch-deep-image-matting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:10:49.667Z",
+    "last_updated": "2026-10-03T04:58:16.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
