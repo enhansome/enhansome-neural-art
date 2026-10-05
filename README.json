@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10958,
+            "stars": 10957,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -207,7 +207,7 @@
             "open_issues": 15,
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
-            "stars": 1569,
+            "stars": 1571,
             "topics": [
               "deep-learning",
               "generative-art",
@@ -335,7 +335,7 @@
             "open_issues": 18,
             "owner": "titu1994",
             "repo": "Neural-Style-Transfer",
-            "stars": 2287,
+            "stars": 2286,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28225,
+            "stars": 28223,
             "topics": [
               "super-resolution",
               "torch",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18169,
+            "stars": 18166,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8093,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:49:15.286Z",
+    "last_updated": "2026-10-05T22:12:33.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
