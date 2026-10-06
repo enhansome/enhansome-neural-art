@@ -15,7 +15,7 @@
             "id": 156939932,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-27T08:51:33Z",
+            "last_commit": "2026-10-06T03:55:13Z",
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10957,
+            "stars": 10958,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -335,7 +335,7 @@
             "open_issues": 18,
             "owner": "titu1994",
             "repo": "Neural-Style-Transfer",
-            "stars": 2286,
+            "stars": 2287,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28223,
+            "stars": 28222,
             "topics": [
               "super-resolution",
               "torch",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18166,
+            "stars": 18167,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:12:33.862Z",
+    "last_updated": "2026-10-06T11:04:46.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
