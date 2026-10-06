@@ -314,7 +314,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6037,
+            "stars": 6036,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18167,
+            "stars": 18165,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:46.839Z",
+    "last_updated": "2026-10-06T20:35:41.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",

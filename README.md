@@ -53,7 +53,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
-* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,037 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
+* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,036 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 * [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,287 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2023-02-13 - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 
 ## Super Resolution
@@ -109,7 +109,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,167 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,165 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
