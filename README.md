@@ -26,7 +26,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://richzhang.github.io/ideepcolor/index_files/imagenet_showcase_small.jpg' width=800>
 
-* [colornet](https://github.com/pavelgonchar/colornet) ⭐ 3,549 | 🐛 14 | 🌐 Python | 📅 2020-04-21
+* [colornet](https://github.com/pavelgonchar/colornet) ⭐ 3,548 | 🐛 14 | 🌐 Python | 📅 2020-04-21
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
@@ -82,7 +82,7 @@ AKA in-painting
 
 AKA image matting. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction) ⭐ 531 | 🐛 4 | 📅 2021-09-25
 
-* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 3,000 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
+* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 2,999 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
 * [Salient Object Detection](https://github.com/Joker316701882/Salient-Object-Detection) ⭐ 444 | 🐛 25 | 🌐 Python | 📅 2021-12-24 - Tensorflow implementation for cvpr2017 paper ["Deeply Supervised Salient Object Detection with Short Connections"](https://arxiv.org/abs/1611.04849) (not peer reviewed). Same author as original Deep Image Matting author.
 
@@ -113,7 +113,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Multiple categories
 
-* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,092 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
+* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,091 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

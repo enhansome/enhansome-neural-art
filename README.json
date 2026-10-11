@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3549,
+            "stars": 3548,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -535,7 +535,7 @@
             "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 3000,
+            "stars": 2999,
             "topics": [
               "deeplab-v3-plus",
               "drn",
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8091,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:33:44.299Z",
+    "last_updated": "2026-10-11T19:45:29.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
