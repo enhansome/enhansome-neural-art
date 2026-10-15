@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -105,7 +105,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3464,
+            "stars": 3463,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18270,
+            "stars": 18269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28225,
+            "stars": 28226,
             "topics": [
               "super-resolution",
               "torch",
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8091,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -828,7 +828,7 @@
             "open_issues": 4,
             "owner": "ycjing",
             "repo": "Neural-Style-Transfer-Papers",
-            "stars": 1639,
+            "stars": 1638,
             "topics": [
               "review",
               "style-transfer"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:45:01.586Z",
+    "last_updated": "2026-10-15T19:28:39.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",

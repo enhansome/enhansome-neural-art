@@ -20,7 +20,7 @@ Creating art and manipulating images using deep neural networks.
 
 See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,167 | 🐛 6 | 📅 2026-10-10 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
-* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,694 | 🐛 32 | 🌐 Python | 📅 2022-07-29
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,693 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
 <img src='https://github.com/junyanz/interactive-deep-colorization/blob/master/imgs/demo.gif' width=600>  
 
@@ -30,13 +30,13 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
-* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,464 | 🐛 60 | 🌐 Python | 📅 2023-11-27
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,463 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
 
 ## Style Transfer
 
-* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,270 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
+* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,269 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,225 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,226 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -113,11 +113,11 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Multiple categories
 
-* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,091 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
+* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,092 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures
 
-* [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) ⭐ 1,639 | 🐛 4 | 📅 2022-02-21 - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
+* [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) ⭐ 1,638 | 🐛 4 | 📅 2022-02-21 - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
 * [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 
 ## License
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
