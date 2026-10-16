@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28226,
+            "stars": 28224,
             "topics": [
               "super-resolution",
               "torch",
@@ -535,7 +535,7 @@
             "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 2999,
+            "stars": 2998,
             "topics": [
               "deeplab-v3-plus",
               "drn",
@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4011,
+            "stars": 4012,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:28:39.388Z",
+    "last_updated": "2026-10-16T19:03:03.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
