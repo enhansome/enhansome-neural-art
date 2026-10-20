@@ -30,18 +30,18 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
-* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,463 | 🐛 60 | 🌐 Python | 📅 2023-11-27
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,464 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
 
 ## Style Transfer
 
-* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,267 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
+* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,266 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
 * [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,957 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
-* [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,983 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02 - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
+* [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,982 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02 - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
 * [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) ⭐ 1,571 | 🐛 15 | 🌐 Lua | 📅 2017-10-30 - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control.
 * [texture\_nets](https://github.com/DmitryUlyanov/texture_nets) ⭐ 1,224 | 🐛 42 | 🌐 Lua | 📅 2018-01-07 - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images".
 * [adaptive-style-transfer](https://github.com/tensorlayer/adaptive-style-transfer) ⭐ 114 | 🐛 6 | 🌐 Python | 📅 2021-12-03 - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.
@@ -53,12 +53,12 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
-* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,035 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
+* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,033 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 * [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,286 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-02-13 - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,230 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,229 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -82,7 +82,7 @@ AKA in-painting
 
 AKA image matting. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction) ⭐ 531 | 🐛 4 | 📅 2021-09-25
 
-* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 2,998 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
+* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 2,999 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
 * [Salient Object Detection](https://github.com/Joker316701882/Salient-Object-Detection) ⭐ 444 | 🐛 25 | 🌐 Python | 📅 2021-12-24 - Tensorflow implementation for cvpr2017 paper ["Deeply Supervised Salient Object Detection with Short Connections"](https://arxiv.org/abs/1611.04849) (not peer reviewed). Same author as original Deep Image Matting author.
 
@@ -109,7 +109,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,160 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,158 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
