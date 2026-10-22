@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10957,
+            "stars": 10956,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9982,
+            "stars": 9981,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -335,7 +335,7 @@
             "open_issues": 17,
             "owner": "titu1994",
             "repo": "Neural-Style-Transfer",
-            "stars": 2286,
+            "stars": 2285,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28229,
+            "stars": 28233,
             "topics": [
               "super-resolution",
               "torch",
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8095,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:41:11.440Z",
+    "last_updated": "2026-10-22T19:33:58.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
