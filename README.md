@@ -58,11 +58,11 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,231 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,235 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
-* [srgan](https://github.com/tensorlayer/srgan) ⭐ 3,466 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
+* [srgan](https://github.com/tensorlayer/srgan) ⭐ 3,467 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 
 <img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
 
@@ -82,7 +82,7 @@ AKA in-painting
 
 AKA image matting. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction) ⭐ 531 | 🐛 4 | 📅 2021-09-25
 
-* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 2,999 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
+* [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) ⭐ 2,998 | 🐛 134 | 🌐 Python | 📅 2024-08-04 - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
 * [Salient Object Detection](https://github.com/Joker316701882/Salient-Object-Detection) ⭐ 444 | 🐛 25 | 🌐 Python | 📅 2021-12-24 - Tensorflow implementation for cvpr2017 paper ["Deeply Supervised Salient Object Detection with Short Connections"](https://arxiv.org/abs/1611.04849) (not peer reviewed). Same author as original Deep Image Matting author.
 
@@ -109,7 +109,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,156 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,155 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

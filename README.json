@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28231,
+            "stars": 28235,
             "topics": [
               "super-resolution",
               "torch",
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466,
+            "stars": 3467,
             "topics": [
               "cnn",
               "gan",
@@ -535,7 +535,7 @@
             "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 2999,
+            "stars": 2998,
             "topics": [
               "deeplab-v3-plus",
               "drn",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18156,
+            "stars": 18155,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:34:28.602Z",
+    "last_updated": "2026-10-24T18:23:20.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
