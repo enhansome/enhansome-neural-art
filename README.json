@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3547,
+            "stars": 3546,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18263,
+            "stars": 18262,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9979,
+            "stars": 9978,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28239,
+            "stars": 28237,
             "topics": [
               "super-resolution",
               "torch",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9845,
+            "stars": 9844,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18152,
+            "stars": 18153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8093,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:36:29.279Z",
+    "last_updated": "2026-10-29T20:41:12.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
