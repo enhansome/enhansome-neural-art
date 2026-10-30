@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3546,
+            "stars": 3547,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -105,7 +105,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3464,
+            "stars": 3465,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18262,
+            "stars": 18263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -234,7 +234,7 @@
             "open_issues": 42,
             "owner": "DmitryUlyanov",
             "repo": "texture_nets",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "neural-style",
               "style-transfer",
@@ -314,7 +314,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6034,
+            "stars": 6035,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28237,
+            "stars": 28240,
             "topics": [
               "super-resolution",
               "torch",
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3467,
+            "stars": 3468,
             "topics": [
               "cnn",
               "gan",
@@ -445,7 +445,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3471,
+            "stars": 3470,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -618,7 +618,7 @@
                 "open_issues": 4,
                 "owner": "foamliu",
                 "repo": "Deep-Image-Matting-PyTorch",
-                "stars": 832,
+                "stars": 831,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:52.420Z"
@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4012,
+            "stars": 4013,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18153,
+            "stars": 18150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:41:12.106Z",
+    "last_updated": "2026-10-30T20:11:12.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
