@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2693,
+            "stars": 2694,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10955,
+            "stars": 10956,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -207,7 +207,7 @@
             "open_issues": 15,
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "deep-learning",
               "generative-art",
@@ -287,7 +287,7 @@
             "open_issues": 21,
             "owner": "junyanz",
             "repo": "BicycleGAN",
-            "stars": 1516,
+            "stars": 1517,
             "topics": [
               "deep-learning",
               "gans",
@@ -473,7 +473,7 @@
             "open_issues": 106,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2623,
+            "stars": 2624,
             "topics": [
               "canny-edge-detection",
               "deep-learning",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18150,
+            "stars": 18151,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:11:12.538Z",
+    "last_updated": "2026-10-31T19:35:12.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
