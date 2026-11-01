@@ -26,7 +26,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://richzhang.github.io/ideepcolor/index_files/imagenet_showcase_small.jpg' width=800>
 
-* [colornet](https://github.com/pavelgonchar/colornet) ⭐ 3,547 | 🐛 14 | 🌐 Python | 📅 2020-04-21
+* [colornet](https://github.com/pavelgonchar/colornet) ⭐ 3,546 | 🐛 14 | 🌐 Python | 📅 2020-04-21
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
@@ -40,8 +40,8 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
-* [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,956 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
-* [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,978 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02 - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
+* [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) ⭐ 10,955 | 🐛 112 | 🌐 Python | 📅 2023-07-16 - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
+* [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) ⭐ 9,977 | 🐛 34 | 🌐 Matlab | 📅 2021-08-02 - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
 * [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) ⭐ 1,572 | 🐛 15 | 🌐 Lua | 📅 2017-10-30 - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control.
 * [texture\_nets](https://github.com/DmitryUlyanov/texture_nets) ⭐ 1,225 | 🐛 42 | 🌐 Lua | 📅 2018-01-07 - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images".
 * [adaptive-style-transfer](https://github.com/tensorlayer/adaptive-style-transfer) ⭐ 114 | 🐛 6 | 🌐 Python | 📅 2021-12-03 - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.
@@ -53,12 +53,12 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
-* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,035 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
+* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,034 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 * [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,285 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-02-13 - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,240 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,241 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
