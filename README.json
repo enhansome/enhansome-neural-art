@@ -105,7 +105,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3470,
+            "stars": 3471,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28241,
+            "stars": 28238,
             "topics": [
               "super-resolution",
               "torch",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:13:45.272Z",
+    "last_updated": "2026-11-03T21:17:54.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
