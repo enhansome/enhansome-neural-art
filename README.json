@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1169,
+            "stars": 1168,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10956,
+            "stars": 10957,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28238,
+            "stars": 28239,
             "topics": [
               "super-resolution",
               "torch",
@@ -535,7 +535,7 @@
             "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 2998,
+            "stars": 2997,
             "topics": [
               "deeplab-v3-plus",
               "drn",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9843,
+            "stars": 9842,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18152,
+            "stars": 18151,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:17:54.263Z",
+    "last_updated": "2026-11-04T21:34:31.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
