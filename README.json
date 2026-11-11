@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2694,
+            "stars": 2695,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -105,7 +105,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3472,
+            "stars": 3474,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10957,
+            "stars": 10956,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9979,
+            "stars": 9978,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28238,
+            "stars": 28239,
             "topics": [
               "super-resolution",
               "torch",
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3468,
+            "stars": 3467,
             "topics": [
               "cnn",
               "gan",
@@ -445,7 +445,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3470,
+            "stars": 3469,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -473,7 +473,7 @@
             "open_issues": 106,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2625,
+            "stars": 2624,
             "topics": [
               "canny-edge-detection",
               "deep-learning",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18147,
+            "stars": 18143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8095,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:27:54.944Z",
+    "last_updated": "2026-11-11T22:19:09.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
