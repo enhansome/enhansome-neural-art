@@ -15,7 +15,7 @@
             "id": 156939932,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-28T10:18:12Z",
+            "last_commit": "2026-11-12T04:25:47Z",
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10956,
+            "stars": 10957,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28239,
+            "stars": 28233,
             "topics": [
               "super-resolution",
               "torch",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:19:09.709Z",
+    "last_updated": "2026-11-12T21:56:01.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
