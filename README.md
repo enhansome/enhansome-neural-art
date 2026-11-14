@@ -20,7 +20,7 @@ Creating art and manipulating images using deep neural networks.
 
 See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,168 | 🐛 6 | 📅 2026-11-12 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
-* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,695 | 🐛 32 | 🌐 Python | 📅 2022-07-29
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,694 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
 <img src='https://github.com/junyanz/interactive-deep-colorization/blob/master/imgs/demo.gif' width=600>  
 
@@ -36,7 +36,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Style Transfer
 
-* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,262 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
+* [neural-style](https://github.com/jcjohnson/neural-style) ⭐ 18,264 | 🐛 316 | 🌐 Lua | 📅 2018-02-23 - Torch implementation of neural style algorithm.
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
@@ -49,7 +49,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/style_interp.jpg' width=600>  
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/spatial_control.jpg' width=600>  
 
-* [Bicycle GAN](https://github.com/junyanz/BicycleGAN) ⭐ 1,517 | 🐛 21 | 🌐 Python | 📅 2020-08-05 - NIPS 2017 Toward Multimodal Image-to-Image Translation, PyTorch implementation. Given the same night image, model is able to synthesize possible day images with different types of lighting, sky and clouds.
+* [Bicycle GAN](https://github.com/junyanz/BicycleGAN) ⭐ 1,518 | 🐛 21 | 🌐 Python | 📅 2020-08-05 - NIPS 2017 Toward Multimodal Image-to-Image Translation, PyTorch implementation. Given the same night image, model is able to synthesize possible day images with different types of lighting, sky and clouds.
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,233 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,231 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -66,7 +66,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
 
-* [fft-descreen](https://github.com/6o6o/fft-descreen) ⭐ 82 | 🐛 4 | 🌐 Python | 📅 2020-03-06 - Clean up deconvolution checkerboard artifacts found in style transferred images.
+* [fft-descreen](https://github.com/6o6o/fft-descreen) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2020-03-06 - Clean up deconvolution checkerboard artifacts found in style transferred images.
 
 ## Patching
 
@@ -109,7 +109,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,141 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,142 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

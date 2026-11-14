@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2695,
+            "stars": 2694,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18262,
+            "stars": 18264,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -287,7 +287,7 @@
             "open_issues": 21,
             "owner": "junyanz",
             "repo": "BicycleGAN",
-            "stars": 1517,
+            "stars": 1518,
             "topics": [
               "deep-learning",
               "gans",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28233,
+            "stars": 28231,
             "topics": [
               "super-resolution",
               "torch",
@@ -415,7 +415,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2020-03-06T07:14:34Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "6o6o",
             "repo": "fft-descreen",
             "stars": 82,
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18141,
+            "stars": 18142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:40:57.557Z",
+    "last_updated": "2026-11-14T20:09:45.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
