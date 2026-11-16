@@ -18,7 +18,7 @@ Creating art and manipulating images using deep neural networks.
 
 ## Colorization
 
-See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,168 | 🐛 6 | 📅 2026-11-12 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
+See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,168 | 🐛 6 | 📅 2026-11-16 and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
 * [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,694 | 🐛 32 | 🌐 Python | 📅 2022-07-29
 
@@ -30,7 +30,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
-* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,474 | 🐛 60 | 🌐 Python | 📅 2023-11-27
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,475 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
 
@@ -53,12 +53,12 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
-* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,036 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
+* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) ⭐ 6,037 | 🐛 34 | 🌐 Cuda | 📅 2021-08-02 - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 * [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) ⭐ 2,285 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-02-13 - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,236 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,237 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -113,7 +113,7 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 ## Multiple categories
 
-* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,095 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
+* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,094 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
