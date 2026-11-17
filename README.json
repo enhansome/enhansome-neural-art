@@ -445,7 +445,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3470,
+            "stars": 3468,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:52:21.540Z",
+    "last_updated": "2026-11-17T23:11:36.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
