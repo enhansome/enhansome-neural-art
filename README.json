@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1168,
+            "stars": 1166,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -55,7 +55,7 @@
             "open_issues": 32,
             "owner": "junyanz",
             "repo": "interactive-deep-colorization",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3545,
+            "stars": 3543,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -105,7 +105,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3475,
+            "stars": 3474,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18265,
+            "stars": 18266,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10958,
+            "stars": 10956,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9978,
+            "stars": 9977,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -207,7 +207,7 @@
             "open_issues": 15,
             "owner": "xunhuang1995",
             "repo": "AdaIN-style",
-            "stars": 1573,
+            "stars": 1571,
             "topics": [
               "deep-learning",
               "generative-art",
@@ -234,7 +234,7 @@
             "open_issues": 42,
             "owner": "DmitryUlyanov",
             "repo": "texture_nets",
-            "stars": 1225,
+            "stars": 1222,
             "topics": [
               "neural-style",
               "style-transfer",
@@ -287,7 +287,7 @@
             "open_issues": 21,
             "owner": "junyanz",
             "repo": "BicycleGAN",
-            "stars": 1518,
+            "stars": 1517,
             "topics": [
               "deep-learning",
               "gans",
@@ -314,7 +314,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6037,
+            "stars": 6036,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28236,
+            "stars": 28235,
             "topics": [
               "super-resolution",
               "torch",
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3468,
+            "stars": 3466,
             "topics": [
               "cnn",
               "gan",
@@ -473,7 +473,7 @@
             "open_issues": 106,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2624,
+            "stars": 2623,
             "topics": [
               "canny-edge-detection",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9843,
+            "stars": 9842,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4013,
+            "stars": 4010,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18143,
+            "stars": 18144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8094,
+            "stars": 8093,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:43:01.762Z",
+    "last_updated": "2026-11-19T22:46:45.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
