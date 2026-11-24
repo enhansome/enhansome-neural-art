@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28234,
+            "stars": 28235,
             "topics": [
               "super-resolution",
               "torch",
@@ -445,7 +445,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3468,
+            "stars": 3467,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9841,
+            "stars": 9840,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18143,
+            "stars": 18144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -801,7 +801,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8093,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:19:55.288Z",
+    "last_updated": "2026-11-24T02:37:00.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",

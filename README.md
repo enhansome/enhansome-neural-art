@@ -58,7 +58,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 ## Super Resolution
 
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,234 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,235 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
@@ -72,7 +72,7 @@ See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image
 
 AKA in-painting
 
-* [DeepFill V1](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,468 | 🐛 76 | 🌐 Python | 📅 2024-06-27 - Generative Image Inpainting with Contextual Attention.
+* [DeepFill V1](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,467 | 🐛 76 | 🌐 Python | 📅 2024-06-27 - Generative Image Inpainting with Contextual Attention.
 * [EdgeConnect](https://github.com/knazeri/edge-connect) ⭐ 2,623 | 🐛 106 | 🌐 Python | 📅 2024-02-03 - a two-stage adversarial model that comprises of an edge generator followed by an image completion network.
   <img src='https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png' width=820>
 * [Deep Image Completion](https://github.com/adamstseng/general-deep-image-completion) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2018-05-07 - Contains face-completion and general image completion models. Each can complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
@@ -109,11 +109,11 @@ AKA image matting. See also: [Awesome Background Subtraction](https://github.com
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
-* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,143 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
+* [style2paints](https://github.com/lllyasviel/style2paints/) ⭐ 18,144 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
-* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,093 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
+* [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,094 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27 -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures
 
@@ -128,4 +128,4 @@ To the extent possible under law, [Richard Decal](https://www.richarddecal.com) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
