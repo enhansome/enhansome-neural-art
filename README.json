@@ -84,7 +84,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3543,
+            "stars": 3542,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -102,7 +102,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2023-11-27T04:46:28Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "richzhang",
             "repo": "colorization",
             "stars": 3476,
@@ -139,7 +139,7 @@
             "open_issues": 316,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18268,
+            "stars": 18269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10956,
+            "stars": 10955,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -314,7 +314,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-painterly-harmonization",
-            "stars": 6036,
+            "stars": 6035,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28236,
+            "stars": 28237,
             "topics": [
               "super-resolution",
               "torch",
@@ -535,7 +535,7 @@
             "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 2997,
+            "stars": 2998,
             "topics": [
               "deeplab-v3-plus",
               "drn",
@@ -717,7 +717,7 @@
             "open_issues": 50,
             "owner": "alexjc",
             "repo": "neural-doodle",
-            "stars": 9840,
+            "stars": 9839,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -744,7 +744,7 @@
             "open_issues": 14,
             "owner": "junyanz",
             "repo": "iGAN",
-            "stars": 4010,
+            "stars": 4009,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18143,
+            "stars": 18142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:10:00.107Z",
+    "last_updated": "2026-11-25T23:48:43.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
