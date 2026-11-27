@@ -15,11 +15,11 @@
             "id": 156939932,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-16T07:59:01Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-27T06:40:51Z",
+            "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1166,
+            "stars": 1167,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -139,7 +139,7 @@
             "open_issues": 318,
             "owner": "jcjohnson",
             "repo": "neural-style",
-            "stars": 18269,
+            "stars": 18267,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -160,7 +160,7 @@
             "open_issues": 112,
             "owner": "lengstrom",
             "repo": "fast-style-transfer",
-            "stars": 10955,
+            "stars": 10953,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28238,
+            "stars": 28235,
             "topics": [
               "super-resolution",
               "torch",
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3465,
+            "stars": 3464,
             "topics": [
               "cnn",
               "gan",
@@ -535,7 +535,7 @@
             "open_issues": 134,
             "owner": "jfzhang95",
             "repo": "pytorch-deeplab-xception",
-            "stars": 2998,
+            "stars": 2996,
             "topics": [
               "deeplab-v3-plus",
               "drn",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18143,
+            "stars": 18142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:05:51.983Z",
+    "last_updated": "2026-11-27T23:46:07.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
