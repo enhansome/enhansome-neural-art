@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-16T07:59:01Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
             "stars": 1166,
@@ -136,7 +136,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2018-02-23T01:21:20Z",
-            "open_issues": 316,
+            "open_issues": 318,
             "owner": "jcjohnson",
             "repo": "neural-style",
             "stars": 18269,
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "luanfujun",
             "repo": "deep-photo-styletransfer",
-            "stars": 9979,
+            "stars": 9978,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -362,7 +362,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28237,
+            "stars": 28238,
             "topics": [
               "super-resolution",
               "torch",
@@ -387,7 +387,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466,
+            "stars": 3465,
             "topics": [
               "cnn",
               "gan",
@@ -774,7 +774,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18142,
+            "stars": 18143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:52.420Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:48:43.133Z",
+    "last_updated": "2026-11-27T00:05:51.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural network-based art resources.",
